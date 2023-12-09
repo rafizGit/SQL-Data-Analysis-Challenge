@@ -29,10 +29,10 @@ To run these queries, you will need access to an SQL server where you can create
 - SQL
 
 ## Author
-- [Your Name]
+- [Rafiqul Alam]
 
 ## Acknowledgments
-I would like to thank [Organization/Person] for providing the dataset and challenge instructions which made this project possible.
+I would like to thank [Ted ROger's Bootcamp] for providing the dataset and challenge instructions which made this project possible.
 
 ## License
 This project is licensed under the [LICENSE](LICENSE) file in this repository.
