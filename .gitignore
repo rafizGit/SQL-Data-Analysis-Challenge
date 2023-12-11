@@ -1,0 +1,24 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Linux system files
+.*.swp
+
+# SQL temporary files
+*.sql~
+
+# Environment variables
+.env
+
+# CSV datasets (if they are too large or not meant to be shared)
+*.csv
+
+# Editor folders
+.idea/
+.vscode/
+
+# Log files
+*.log
