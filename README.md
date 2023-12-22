@@ -17,7 +17,7 @@ The challenge was structured around the following key tasks:
 10. List the top 10 customers who purchased the most furniture.
 
 ## Repository Structure
-- `SQL-Challenge.sql`: This SQL script contains all the queries used to analyze the data and find answers to the challenge questions.
+- `Rafiqul Alam - SQL Challenge.sql`: This SQL script contains all the queries used to analyze the data and find answers to the challenge questions.
 
 ## How to Use
 To run these queries, you will need access to an SQL server where you can create tables and execute queries. The steps are as follows:
